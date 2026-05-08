@@ -1,0 +1,81 @@
+<main class="app-container">
+  <div class="chat-window glass-panel">
+    <!-- Header -->
+    <header class="header">
+      <div class="logo-group">
+        <div class="status-dot"></div>
+        <h1>HealthAssist AI</h1>
+      </div>
+      <div class="header-actions">
+        <button class="sync-btn" (click)="onSync()" [disabled]="chatService.isSyncing()">
+        @if (chatService.isSyncing()) {
+          <span class="sync-spinner"></span> Syncing...
+        } @else {
+          Sync Docs
+        }
+      </button>
+        <span class="version">v1.0.0</span>
+      </div>
+    </header>
+
+    <!-- Chat Area -->
+    <section class="chat-area" #scrollContainer>
+      @if (chatService.messages().length === 0) {
+        <div class="welcome-screen">
+          <div class="welcome-icon">🏥</div>
+          <h2>Welcome to HealthAssist AI</h2>
+          <p>Your 24/7 clinic assistant. Ask me about medical info or book an appointment.</p>
+          
+          <div class="suggestions-grid">
+            @for (q of suggestions; track $index) {
+              <div class="suggestion-card glass-panel" (click)="selectSuggestion(q)">
+                {{ q }}
+              </div>
+            }
+          </div>
+        </div>
+      }
+
+      <div class="messages-container">
+        @for (msg of chatService.messages(); track $index) {
+        <div class="message-wrapper" [class.user]="msg.role === 'user'">
+          <div class="message glass-panel">
+            <p>{{ msg.content }}</p>
+            
+            @if (msg.sources && msg.sources.length > 0) {
+              <div class="sources">
+                <span class="source-label">Sources:</span>
+                <div class="source-chips">
+                  @for (s of msg.sources; track $index) {
+                    <span class="source-chip" [title]="s.chunk">{{ s.document }}</span>
+                  }
+                </div>
+              </div>
+            }
+          </div>
+        </div>
+        }
+
+        @if (chatService.isLoading()) {
+        <div class="message-wrapper">
+          <div class="message glass-panel loading">
+            <div class="dot-typing"></div>
+          </div>
+        </div>
+        }
+      </div>
+    </section>
+
+    <!-- Input Area -->
+    <footer class="input-area">
+      <div class="input-wrapper glass-panel">
+        <input type="text" [(ngModel)]="userInput" (keyup.enter)="onSend()" placeholder="Type your health question..." />
+        <button (click)="onSend()" [disabled]="!userInput.trim()">
+          <svg viewBox="0 0 24 24" width="24" height="24">
+            <path fill="currentColor" d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" />
+          </svg>
+        </button>
+      </div>
+    </footer>
+  </div>
+</main>

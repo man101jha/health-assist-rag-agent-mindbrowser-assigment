@@ -1,0 +1,32 @@
+/* Custom Modern Palette */
+:root {
+    --bg-dark: #0f172a;
+    --bg-card: rgba(30, 41, 59, 0.7);
+    --accent-cyan: #22d3ee;
+    --accent-purple: #818cf8;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    background: radial-gradient(circle at top right, var(--accent-cyan), transparent 30%),
+        radial-gradient(circle at bottom left, var(--accent-purple), transparent 30%),
+        var(--bg-dark);
+    background-attachment: fixed;
+    color: var(--text-primary);
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Glassmorphism Utility */
+.glass-panel {
+    background: var(--bg-card);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}

@@ -1,15 +1,3 @@
-body {
-    /* This forces the "80% Look" by default in Chrome/Edge/Safari */
-    zoom: 0.8;
-
-    /* Compatibility for Firefox */
-    -moz-transform: scale(0.8);
-    -moz-transform-origin: top center;
-
-    /* Ensure the background stays full-screen */
-    background-attachment: fixed;
-}
-
 /* Custom Modern Palette */
 :root {
     --bg-dark: #0f172a;

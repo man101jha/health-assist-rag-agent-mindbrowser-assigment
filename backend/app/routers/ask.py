@@ -6,7 +6,7 @@ from app.services.agent_service import agent_service
 
 router = APIRouter(prefix="/ask", tags=["RAG"])
 
-@router.post("/", response_model=QueryResponse)
+@router.post("", response_model=QueryResponse)
 async def ask_question(request: QueryRequest):
     try:
         logger.info(f"Query received: {request.query}")

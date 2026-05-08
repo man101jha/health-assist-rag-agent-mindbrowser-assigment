@@ -5,7 +5,7 @@ from app.core.logger import logger
 
 router = APIRouter(prefix="/ingest", tags=["Ingestion"])
 
-@router.post("/", response_model=IngestionResponse)
+@router.post("", response_model=IngestionResponse)
 async def trigger_ingestion():
     try:
         logger.info("Manual ingestion triggered via API.")

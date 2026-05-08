@@ -1,22 +1,25 @@
-from sentence_transformers import SentenceTransformer
+from fastembed import TextEmbedding
 from app.core.logger import logger
-from typing import List
 
 class Embedder:
-    def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
-        logger.info(f"Loading embedding model: {model_name}...")
-        self.model = SentenceTransformer(model_name)
-        logger.info("Embedding model loaded successfully.")
+    def __init__(self, model_name="BAAI/bge-small-en-v1.5"):
+        logger.info(f"Initializing FastEmbed engine with model: {model_name}")
+        try:
+            self.model = TextEmbedding(model_name=model_name)
+            logger.info("FastEmbed engine initialized successfully.")
+        except Exception as e:
+            logger.error(f"Failed to initialize FastEmbed: {e}")
+            raise
 
-    def embed_text(self, text: str) -> List[float]:
-        """Converts a single string into a vector."""
-        embedding = self.model.encode(text)
-        return embedding.tolist()
+    def embed_text(self, text: str) -> list:
+        """Generate a single embedding vector for the given text."""
+        try:
+            # fastembed returns a generator of numpy arrays
+            embeddings = list(self.model.embed([text]))
+            return embeddings[0].tolist()
+        except Exception as e:
+            logger.error(f"Embedding generation failed: {e}")
+            raise
 
-    def embed_batch(self, texts: List[str]) -> List[List[float]]:
-        """Converts a list of strings into a list of vectors."""
-        embeddings = self.model.encode(texts)
-        return embeddings.tolist()
-
-
+# Singleton instance
 embedder = Embedder()

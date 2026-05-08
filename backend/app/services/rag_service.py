@@ -1,6 +1,6 @@
 from groq import Groq
-from app.core.config import get_settings
 from app.core.embedder import embedder
+from app.core.config import get_settings
 from app.core.pinecone_client import pinecone_manager
 from app.core.prompt import RAG_SYSTEM_PROMPT
 from app.core.logger import logger
@@ -13,7 +13,7 @@ class RAGService:
         self.index = pinecone_manager.get_index()
 
     async def answer_question(self, query: str):
-        # 1. Embed the user's question
+        # 1. Embed the user's question using shared embedder
         query_vector = embedder.embed_text(query)
 
         # 2. Search Pinecone for top 5 matches
@@ -45,12 +45,21 @@ class RAGService:
             temperature=0
         )
 
-        # 5. Determine Confidence
+        # 5. Determine Confidence & Guardrails
+        answer = response.choices[0].message.content
         avg_score = sum(scores) / len(scores) if scores else 0
-        confidence = "high" if avg_score > 0.8 else "medium" if avg_score > 0.6 else "low"
+        
+        # If AI apologizes (out of scope) or similarity is too low, hide sources
+        is_refusal = "apologize" in answer.lower() or "don't have information" in answer.lower()
+        
+        if is_refusal or avg_score < 0.5:
+            sources = []
+            confidence = "low"
+        else:
+            confidence = "high" if avg_score > 0.8 else "medium" if avg_score > 0.6 else "low"
 
         return {
-            "answer": response.choices[0].message.content,
+            "answer": answer,
             "sources": sources,
             "confidence": confidence
         }

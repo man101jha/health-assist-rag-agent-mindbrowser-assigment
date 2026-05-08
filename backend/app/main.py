@@ -47,7 +47,10 @@ async def shutdown_event():
 
 # Serve Angular Static Files
 if os.path.exists("static"):
-    app.mount("/assets", StaticFiles(directory="static/assets"), name="assets")
+    # Mount assets only if the directory exists to avoid startup crash
+    assets_path = os.path.join("static", "assets")
+    if os.path.exists(assets_path):
+        app.mount("/assets", StaticFiles(directory=assets_path), name="assets")
 
     @app.get("/{full_path:path}")
     async def serve_angular(full_path: str):

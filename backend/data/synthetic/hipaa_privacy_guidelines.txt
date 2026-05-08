@@ -1,0 +1,155 @@
+HIPAA PRIVACY AND SECURITY GUIDELINES
+=======================================
+Document Type: Compliance and Privacy Policy
+Version: 4.1
+Last Updated: January 2025
+
+1. OVERVIEW AND PURPOSE
+------------------------
+The Health Insurance Portability and Accountability Act (HIPAA) is a federal law that establishes national standards for the protection of sensitive patient health information. This document explains your rights as a patient and our obligations as a healthcare provider under HIPAA.
+
+2. WHAT IS PROTECTED HEALTH INFORMATION (PHI)?
+------------------------------------------------
+Protected Health Information (PHI) includes any individually identifiable health information, including:
+- Your name, address, date of birth, and Social Security number
+- Your medical records, diagnoses, and treatment history
+- Prescription and medication history
+- Lab results and imaging reports
+- Billing and payment information
+- Health insurance information
+- Any other information that could identify you as a patient
+
+PHI can exist in any form: electronic (ePHI), paper, or verbal communication.
+
+3. YOUR RIGHTS AS A PATIENT UNDER HIPAA
+-----------------------------------------
+
+Right to Access Your Records:
+  - You have the right to inspect and obtain a copy of your medical records
+  - Requests must be fulfilled within 30 days (or 60 days with written notice of delay)
+  - We may charge a reasonable fee for copies (per state law)
+  - Requests must be submitted in writing using our Medical Records Request Form
+
+Right to Request Corrections:
+  - You may request corrections or amendments to your health information
+  - We will respond within 60 days
+  - We may deny the request if the information is accurate and complete; we will explain the reason
+
+Right to an Accounting of Disclosures:
+  - You have the right to receive a list of instances where we have shared your PHI
+  - This accounting covers the 6 years prior to your request
+  - Excludes disclosures made for treatment, payment, and operations
+
+Right to Request Restrictions:
+  - You may request that we limit how we use or share your health information
+  - We are not required to agree to all restrictions
+  - If you pay out-of-pocket in full, we must restrict sharing with your insurer for that service
+
+Right to Confidential Communications:
+  - You may request that we contact you in a specific way or location
+  - Example: Call only your cell phone, not your home phone
+  - We will accommodate all reasonable requests
+
+Right to a Notice of Privacy Practices:
+  - You have the right to receive a written notice explaining how we use your health information
+  - This notice is provided at your first visit and available on our website
+
+4. HOW WE USE AND SHARE YOUR HEALTH INFORMATION
+-------------------------------------------------
+
+We may use and share your PHI without your explicit authorization for:
+
+Treatment:
+  - Sharing information with other providers involved in your care
+  - Sending records to specialists, hospitals, or labs
+  - Coordinating care across our health system
+
+Payment:
+  - Billing your insurance company
+  - Processing claims and verifying coverage
+  - Resolving billing disputes
+
+Healthcare Operations:
+  - Quality improvement activities
+  - Staff training and education
+  - Business management functions
+  - Audits and compliance reviews
+
+Other Permitted Disclosures (without authorization):
+  - Public health reporting (e.g., communicable disease reporting to health departments)
+  - Responding to abuse or neglect reports as required by law
+  - Court orders or legal subpoenas
+  - Law enforcement requests (limited circumstances)
+  - National security activities
+  - Workers' compensation programs
+
+5. DISCLOSURES THAT REQUIRE YOUR WRITTEN AUTHORIZATION
+--------------------------------------------------------
+We must obtain your written authorization before using or sharing your PHI for:
+- Marketing purposes
+- Sale of your health information
+- Most uses of psychotherapy notes
+- Research that is not covered by a waiver
+- Any other purpose not described in this policy
+
+You may revoke your authorization at any time in writing. Revocation does not apply to disclosures already made.
+
+6. SENSITIVE HEALTH INFORMATION — SPECIAL PROTECTIONS
+-------------------------------------------------------
+The following categories of health information receive extra legal protections:
+- Mental health and psychiatric records
+- Substance abuse treatment records (42 CFR Part 2)
+- HIV/AIDS status and test results
+- Reproductive health information
+- Genetic testing information
+Sharing of these records requires specific authorization and follows stricter guidelines.
+
+7. HOW WE PROTECT YOUR INFORMATION
+-------------------------------------
+We implement the following safeguards:
+
+Administrative Safeguards:
+  - Regular HIPAA training for all staff
+  - Strict access controls — staff can only view information relevant to their role
+  - Background checks for all employees
+  - Privacy officer appointed to oversee compliance
+
+Physical Safeguards:
+  - Locked medical record storage
+  - Secure workstations with automatic screen locks
+  - Visitor sign-in and escort policy
+  - Secure disposal of paper records (shredding)
+
+Technical Safeguards (for electronic PHI):
+  - Encrypted data storage and transmission
+  - Unique user logins and strong password requirements
+  - Multi-factor authentication for system access
+  - Audit logs tracking all access to patient records
+  - Automatic logoff for inactive sessions
+
+8. BREACH NOTIFICATION POLICY
+-------------------------------
+In the event of a data breach involving your PHI:
+- We will notify you within 60 days of discovering the breach
+- Notification will include: what happened, what information was involved, steps you should take, and what we are doing
+- Breaches affecting 500 or more patients are also reported to the Secretary of Health and Human Services and local media
+
+9. HOW TO FILE A COMPLAINT
+----------------------------
+If you believe your privacy rights have been violated, you may:
+
+Contact Our Privacy Officer:
+  - Phone: 1-800-PRIVACY
+  - Email: privacy@healthsystem.org
+  - Mail: Privacy Officer, 100 Health Way, Medical City, MC 10001
+
+File a Complaint with the Government:
+  - U.S. Department of Health and Human Services (HHS)
+  - Office for Civil Rights (OCR)
+  - Website: www.hhs.gov/ocr
+  - Phone: 1-800-368-1019
+  You will not be penalized or retaliated against for filing a complaint.
+
+10. CHANGES TO THIS POLICY
+----------------------------
+We reserve the right to change our privacy practices and the terms of this notice. Changes will apply to all health information we maintain. The updated notice will be posted on our website and available at our offices.

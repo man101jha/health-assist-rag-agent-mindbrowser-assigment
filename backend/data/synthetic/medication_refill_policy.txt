@@ -1,0 +1,133 @@
+MEDICATION REFILL POLICY
+==========================
+Document Type: Pharmacy and Clinical Policy
+Version: 2.3
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+This policy outlines the procedures for requesting, processing, and approving prescription medication refills. All refill requests are subject to clinical review and must comply with applicable state and federal regulations.
+
+2. HOW TO REQUEST A MEDICATION REFILL
+----------------------------------------
+Patients may request refills through the following methods:
+
+Method 1 - Patient Portal (Preferred):
+  - Log in to portal.healthsystem.org
+  - Navigate to "My Medications"
+  - Select the medication and click "Request Refill"
+  - Choose your preferred pharmacy
+  - Allow 48-72 hours for processing
+
+Method 2 - Pharmacy-Initiated Refill:
+  - Ask your pharmacy to send a refill request electronically
+  - Pharmacy contacts our office on your behalf
+  - Processing time: 24-48 hours
+
+Method 3 - Telehealth Visit:
+  - Schedule a telehealth appointment
+  - Provider reviews your medication and current health status
+  - Prescription sent electronically to pharmacy upon approval
+
+Method 4 - Phone Request:
+  - Call our refill line: 1-800-HEALTH-2
+  - Available 24/7 for refill requests
+  - A nurse will review and process within one business day
+
+3. MEDICATIONS ELIGIBLE FOR REFILL WITHOUT IN-PERSON VISIT
+-------------------------------------------------------------
+The following categories of medications may be refilled via telehealth or portal request for established patients:
+
+Cardiovascular Medications:
+  - Blood pressure medications (antihypertensives)
+  - Cholesterol-lowering medications (statins)
+  - Blood thinners (warfarin, for stable, monitored patients)
+
+Endocrine Medications:
+  - Thyroid medications (levothyroxine)
+  - Oral diabetes medications (metformin, glipizide, sitagliptin)
+  - Insulin refills (for established diabetic patients with recent A1C)
+
+Respiratory Medications:
+  - Maintenance inhalers (fluticasone, salmeterol, tiotropium)
+  - Allergy medications
+
+Mental Health Medications (Established Patients Only):
+  - Antidepressants (SSRIs, SNRIs)
+  - Non-controlled anti-anxiety medications
+  - Mood stabilizers (stable patients with recent labs)
+
+Other:
+  - Acid reflux medications (PPIs, H2 blockers)
+  - Migraine preventive medications
+  - Contraceptive medications
+
+4. CONTROLLED SUBSTANCE REFILL POLICY
+----------------------------------------
+Controlled substances (Schedule II-V) have strict refill requirements:
+
+Schedule II (e.g., Adderall, OxyContin, Ritalin):
+  - CANNOT be refilled via phone, portal, or telehealth
+  - Requires an in-person visit with the prescribing provider EVERY time
+  - No early refills permitted (must wait until within 2 days of running out)
+  - Original paper or electronic prescription required by law
+
+Schedule III and IV (e.g., Xanax, Valium, Tramadol, Ambien):
+  - In-person visit required at least every 3 months
+  - Telehealth may be used for interim refills if in-person visit was within 90 days
+  - Maximum of 5 refills per prescription
+  - Early refills not permitted more than 2 days before the due date
+
+Schedule V (e.g., cough medications with codeine):
+  - Can be refilled via portal or telehealth for stable patients
+  - Requires in-person visit annually
+
+5. REFILL TIMING GUIDELINES
+-----------------------------
+- Do not wait until you are completely out of medication to request a refill
+- Request refills when you have a 7-10 day supply remaining
+- Most refills are processed within 24-72 business hours
+- Holiday periods may cause processing delays of 1-2 additional days
+- Early refill requests (more than 7 days early for non-controlled medications) may be denied by insurance
+
+6. CONDITIONS THAT MAY PREVENT REFILL APPROVAL
+------------------------------------------------
+Your refill may be placed on hold or denied if:
+- You have not had a required follow-up visit or lab work
+- Your prescription has expired (most expire after 1 year)
+- Your insurance requires prior authorization that has lapsed
+- You have outstanding balances preventing service
+- There are safety concerns based on your recent health information
+- The medication requires updated lab results (e.g., kidney function for metformin)
+
+7. MEDICATION RECONCILIATION
+------------------------------
+At every visit and refill review, providers will:
+- Review all current medications including OTC drugs and supplements
+- Check for potential drug interactions
+- Assess whether current dosages remain appropriate
+- Update your medication list in the electronic health record
+
+8. PRIOR AUTHORIZATION (PA)
+-----------------------------
+Some medications require prior authorization from your insurance provider:
+- PA requests are submitted by our office on your behalf
+- Processing typically takes 3-5 business days
+- Patients will be notified of approval or denial
+- Appeals are available if authorization is denied
+- Bridge supplies may be provided during the PA process when medically appropriate
+
+9. REFILL DENIALS AND APPEALS
+-------------------------------
+If your refill request is denied:
+- You will receive a notification explaining the reason
+- You may appeal the decision by calling our clinical team
+- If denied due to required visit, a telehealth appointment may be scheduled promptly
+- For insurance denials, our staff will assist with the appeal process
+
+10. MEDICATION DISPOSAL
+------------------------
+Do not flush unused medications down the toilet. Return unused or expired medications to:
+- Our in-office medication disposal kiosk (available at all locations)
+- Participating pharmacy take-back programs
+- DEA-authorized collection sites

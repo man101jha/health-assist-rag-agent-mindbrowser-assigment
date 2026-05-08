@@ -1,0 +1,133 @@
+SAMPLE TEST QUESTIONS FOR RAG EVALUATION
+==========================================
+Use these questions to test your RAG pipeline during development and for the live demo.
+Each question is tagged with its expected source document.
+
+--- TELEHEALTH QUESTIONS ---
+1. Can a patient request a medication refill through a telehealth visit?
+   [Expected Source: telehealth_consultation_policy.txt]
+
+2. What are the technical requirements for a telehealth appointment?
+   [Expected Source: telehealth_consultation_policy.txt]
+
+3. Which services cannot be done via telehealth?
+   [Expected Source: telehealth_consultation_policy.txt]
+
+4. How far in advance must a patient cancel a telehealth appointment?
+   [Expected Source: telehealth_consultation_policy.txt]
+
+5. Can a new psychiatric evaluation be done via telehealth?
+   [Expected Source: telehealth_consultation_policy.txt]
+
+--- APPOINTMENT QUESTIONS ---
+6. How do I book a cardiology appointment?
+   [Expected Source: appointment_scheduling_policy.txt, AGENT: mock appointment tool]
+
+7. Can I book an appointment for Monday in the dermatology department?
+   [Expected Source: AGENT: mock appointment tool]
+
+8. What happens if I miss my appointment without cancelling?
+   [Expected Source: appointment_scheduling_policy.txt]
+
+9. How early do new patients need to arrive before their first appointment?
+   [Expected Source: appointment_scheduling_policy.txt]
+
+10. Does the orthopedics department require a referral?
+    [Expected Source: appointment_scheduling_policy.txt]
+
+--- MEDICATION REFILL QUESTIONS ---
+11. Can I get a refill for a Schedule II controlled substance via telehealth?
+    [Expected Source: medication_refill_policy.txt]
+
+12. How early can I request a refill for a non-controlled medication?
+    [Expected Source: medication_refill_policy.txt]
+
+13. What medications are eligible for refill through the patient portal?
+    [Expected Source: medication_refill_policy.txt]
+
+14. What should I do if my refill request is denied?
+    [Expected Source: medication_refill_policy.txt]
+
+15. How long does a prior authorization for a medication take?
+    [Expected Source: medication_refill_policy.txt, insurance_eligibility_faq.txt]
+
+--- HIPAA AND PRIVACY QUESTIONS ---
+16. What is Protected Health Information (PHI)?
+    [Expected Source: hipaa_privacy_guidelines.txt]
+
+17. Can I request a copy of my medical records?
+    [Expected Source: hipaa_privacy_guidelines.txt]
+
+18. Who can my healthcare provider share my health information with without my consent?
+    [Expected Source: hipaa_privacy_guidelines.txt]
+
+19. How do I file a HIPAA complaint?
+    [Expected Source: hipaa_privacy_guidelines.txt]
+
+20. What special protections exist for mental health records?
+    [Expected Source: hipaa_privacy_guidelines.txt]
+
+--- DISCHARGE INSTRUCTIONS QUESTIONS ---
+21. How long after surgery should I avoid lifting heavy objects?
+    [Expected Source: discharge_instructions.txt]
+
+22. What are the signs of a wound infection after surgery?
+    [Expected Source: discharge_instructions.txt]
+
+23. When should I go to the Emergency Department after discharge?
+    [Expected Source: discharge_instructions.txt]
+
+24. How should I manage pain at home after a procedure?
+    [Expected Source: discharge_instructions.txt]
+
+25. Can I drive after receiving anesthesia?
+    [Expected Source: discharge_instructions.txt]
+
+--- INSURANCE AND BILLING QUESTIONS ---
+26. What is the difference between a copay and a deductible?
+    [Expected Source: insurance_eligibility_faq.txt]
+
+27. What do I do if I receive a medical bill I cannot afford to pay?
+    [Expected Source: insurance_eligibility_faq.txt]
+
+28. How long does the billing process take after my visit?
+    [Expected Source: insurance_eligibility_faq.txt]
+
+29. What is prior authorization and which services require it?
+    [Expected Source: insurance_eligibility_faq.txt]
+
+30. Do you accept Medicaid?
+    [Expected Source: insurance_eligibility_faq.txt]
+
+--- DIABETES QUESTIONS ---
+31. What is the difference between Type 1 and Type 2 diabetes?
+    [Expected Source: diabetes_patient_guide.txt]
+
+32. What should I do if my blood sugar drops below 70 mg/dL?
+    [Expected Source: diabetes_patient_guide.txt]
+
+33. What is the target A1C level for most adults with diabetes?
+    [Expected Source: diabetes_patient_guide.txt]
+
+34. Can metformin be refilled via telehealth?
+    [Expected Source: medication_refill_policy.txt, diabetes_patient_guide.txt]
+
+--- HYPERTENSION QUESTIONS ---
+35. What blood pressure reading is considered a hypertensive crisis?
+    [Expected Source: hypertension_guide.txt]
+
+36. What is the DASH diet?
+    [Expected Source: hypertension_guide.txt]
+
+37. Can I stop taking my blood pressure medication if I feel fine?
+    [Expected Source: hypertension_guide.txt]
+
+--- OUT-OF-SCOPE QUESTIONS (should return "not found in documents") ---
+38. What is the stock price of Johnson and Johnson?
+    [Expected: "I could not find this information in the provided documents."]
+
+39. Can you recommend a good restaurant near the hospital?
+    [Expected: "I could not find this information in the provided documents."]
+
+40. What are the side effects of a vaccine not mentioned in any document?
+    [Expected: "I could not find this information in the provided documents."]

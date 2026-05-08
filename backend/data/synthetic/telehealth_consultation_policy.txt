@@ -1,0 +1,77 @@
+TELEHEALTH CONSULTATION GUIDELINES
+===================================
+Document Type: Clinical Operations Policy
+Version: 2.1
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+Telehealth services allow patients to consult with licensed healthcare providers remotely using secure video or audio technology. These services are available to registered patients of our healthcare system and are subject to the following guidelines.
+
+2. ELIGIBLE SERVICES VIA TELEHEALTH
+-------------------------------------
+The following services may be provided through telehealth consultations:
+- General medical consultations and follow-ups
+- Mental health counseling and therapy sessions
+- Chronic disease management (diabetes, hypertension, asthma)
+- Medication refill requests for existing, non-controlled prescriptions
+- Dermatology consultations using photo submissions
+- Nutritional counseling
+- Post-surgical follow-up appointments (non-emergency)
+- Lab result reviews and discussions
+- Minor illness consultations (cold, flu, UTI, allergies)
+
+3. SERVICES NOT AVAILABLE VIA TELEHEALTH
+------------------------------------------
+The following situations require an in-person visit:
+- Physical examinations requiring hands-on assessment
+- Emergency medical conditions
+- Controlled substance prescriptions (Schedule II-V)
+- Procedures requiring physical equipment
+- Initial psychiatric evaluations
+- Pediatric well-child visits under 2 years of age
+- Imaging, blood draws, or diagnostic testing
+
+4. MEDICATION REFILL VIA TELEHEALTH
+--------------------------------------
+Patients may request medication refills through a telehealth visit under the following conditions:
+- The medication must already be prescribed and active in the patient's record
+- The medication must not be a controlled substance
+- The patient must have had an in-person visit with the prescribing provider within the last 12 months
+- The patient must not be experiencing new or worsening symptoms requiring physical examination
+- Common medications refillable via telehealth include: blood pressure medications, cholesterol medications, thyroid medications, antidepressants (established patients), inhalers, and diabetes medications (non-insulin)
+
+5. HOW TO SCHEDULE A TELEHEALTH APPOINTMENT
+---------------------------------------------
+Step 1: Log in to the patient portal at portal.healthsystem.org
+Step 2: Select "Schedule Appointment" and choose "Telehealth/Virtual Visit"
+Step 3: Select your preferred provider and available time slot
+Step 4: Complete the pre-visit questionnaire at least 2 hours before your appointment
+Step 5: Test your device camera and microphone before the visit
+Step 6: Join the visit using the secure link sent to your registered email
+
+6. TECHNICAL REQUIREMENTS
+---------------------------
+- Device: Smartphone, tablet, or computer with camera and microphone
+- Internet: Stable connection of at least 1 Mbps
+- Browser: Chrome, Firefox, Safari, or Edge (latest versions)
+- Platform: Our HIPAA-compliant video platform (no separate app download required)
+
+7. INSURANCE AND PAYMENT
+--------------------------
+Most major insurance plans cover telehealth services at the same cost-sharing as in-person visits. Patients should verify coverage with their insurance provider. Self-pay rates are available upon request. Co-pays are collected at the time of scheduling.
+
+8. PRIVACY AND SECURITY
+-------------------------
+All telehealth sessions are conducted on HIPAA-compliant, encrypted platforms. Sessions are not recorded without explicit written patient consent. Patients should conduct sessions from a private location. Do not use public Wi-Fi for telehealth consultations.
+
+9. AFTER YOUR VISIT
+--------------------
+- A visit summary will be sent to your patient portal within 24 hours
+- Prescriptions will be sent electronically to your preferred pharmacy
+- Lab orders will be available for download in your portal
+- Follow-up appointments can be scheduled directly through the portal
+
+10. CANCELLATION POLICY
+-------------------------
+Patients must cancel or reschedule telehealth appointments at least 2 hours before the scheduled time to avoid a late cancellation fee of $25.

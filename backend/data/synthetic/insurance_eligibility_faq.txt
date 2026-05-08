@@ -1,0 +1,144 @@
+INSURANCE ELIGIBILITY AND BILLING FAQ
+=======================================
+Document Type: Patient Financial Services Guide
+Version: 1.8
+Last Updated: January 2025
+
+FREQUENTLY ASKED QUESTIONS — INSURANCE AND BILLING
+
+SECTION 1: INSURANCE ELIGIBILITY
+===================================
+
+Q: How do I know if my insurance is accepted?
+A: Our healthcare system accepts most major insurance plans including Medicare, Medicaid, Blue Cross Blue Shield, Aetna, Cigna, United Healthcare, Humana, and many regional plans. To verify whether your specific plan is accepted, call our Patient Financial Services team at 1-800-BILLING or check our insurance directory on the patient portal. Always verify coverage before scheduling specialty appointments.
+
+Q: How do I verify my insurance eligibility before an appointment?
+A: You can verify eligibility in three ways:
+  1. Log into your patient portal and navigate to "Insurance and Benefits"
+  2. Call our Insurance Verification line: 1-800-BILLING (Monday-Friday, 8 AM - 5 PM)
+  3. Contact your insurance company directly using the number on your insurance card
+  We recommend verifying eligibility at least 48 hours before your appointment, especially for specialist visits.
+
+Q: What information do I need to provide for insurance verification?
+A: You will need to provide:
+  - Your full legal name as it appears on the insurance card
+  - Date of birth
+  - Insurance member ID number
+  - Insurance group number
+  - Name of primary insurance holder (if you are a dependent)
+  - Insurance company phone number
+
+Q: What is a primary vs. secondary insurance?
+A: Primary insurance is billed first for your healthcare services. Secondary insurance (if applicable) is billed for any remaining balance not covered by your primary insurer. If you have both Medicare and supplemental insurance (Medigap), Medicare is primary and Medigap is secondary. Always bring both insurance cards to your appointments.
+
+Q: What if I don't have insurance?
+A: We provide care to all patients regardless of insurance status. Uninsured patients may qualify for:
+  - Our Sliding Fee Scale program (based on household income)
+  - State Medicaid programs (we can help with applications)
+  - Children's Health Insurance Program (CHIP) for patients under 19
+  - Charity care for qualifying low-income patients
+  - Payment plans for outstanding balances
+  Contact our Financial Counselors at 1-800-BILLING for a free consultation.
+
+SECTION 2: PRIOR AUTHORIZATION
+================================
+
+Q: What is prior authorization (PA)?
+A: Prior authorization is a requirement by some insurance plans that your provider obtain approval before providing certain services, procedures, or medications. Without prior authorization, your insurance may deny the claim and you may be responsible for the full cost.
+
+Q: Which services typically require prior authorization?
+A: Services commonly requiring prior authorization include:
+  - Elective surgeries and procedures
+  - MRI, CT scans, and advanced imaging
+  - Physical therapy (beyond initial visits)
+  - Certain specialty medications
+  - Inpatient hospital stays (non-emergency)
+  - Durable medical equipment (wheelchairs, CPAP machines)
+  - Home health services
+  - Referrals to out-of-network providers
+
+Q: How long does prior authorization take?
+A: Standard prior authorization requests take 3-5 business days. Urgent requests may be processed within 24-72 hours. Our team submits PA requests on your behalf and will notify you of the outcome.
+
+Q: What if my prior authorization is denied?
+A: If prior authorization is denied, you have the right to appeal. Our team will:
+  1. Review the denial reason with you
+  2. Assist with filing a formal appeal to your insurance company
+  3. Provide additional clinical documentation to support the appeal
+  4. Explore alternative treatments covered under your plan
+  Most appeals are resolved within 30 days.
+
+SECTION 3: COPAYS, DEDUCTIBLES, AND COINSURANCE
+=================================================
+
+Q: What is a copay?
+A: A copay is a fixed amount you pay for a covered healthcare service at the time of the visit. For example, $25 for a primary care visit or $50 for a specialist visit. Copay amounts vary by plan. Copays are due at the time of service.
+
+Q: What is a deductible?
+A: A deductible is the amount you pay out-of-pocket for healthcare services before your insurance begins to pay. For example, if your deductible is $1,500, you pay the first $1,500 of covered services each year. After meeting your deductible, you typically pay only coinsurance or copays.
+
+Q: What is coinsurance?
+A: Coinsurance is a percentage of the cost you pay for covered services after meeting your deductible. For example, if your coinsurance is 20%, you pay 20% of the allowed amount and your insurance pays 80%.
+
+Q: What is an out-of-pocket maximum?
+A: This is the most you will have to pay for covered services in a plan year. Once you reach this amount, your insurance pays 100% of covered services for the rest of the year. It includes deductibles, copays, and coinsurance but typically does not include premiums.
+
+Q: Why did I receive a bill if I have insurance?
+A: You may receive a bill for several reasons:
+  - You have not yet met your annual deductible
+  - The service required a copay or coinsurance
+  - The service was not covered under your plan
+  - The provider was out-of-network
+  - Prior authorization was not obtained or was denied
+  - You have reached your coverage limit for certain services
+
+SECTION 4: CLAIMS AND BILLING
+================================
+
+Q: How does the billing process work?
+A: After your visit, we submit a claim to your insurance company. The insurer processes the claim and sends us an Explanation of Benefits (EOB) detailing what they will pay. We then bill you for any remaining balance (copay, deductible, or coinsurance). This process typically takes 30-60 days.
+
+Q: What is an Explanation of Benefits (EOB)?
+A: An EOB is a statement from your insurance company explaining what was billed, what was covered, what the insurance paid, and what you owe. It is NOT a bill. You should compare the EOB with any bill you receive from us to ensure accuracy.
+
+Q: How can I pay my bill?
+A: You may pay your bill by:
+  - Online: Log into the patient portal and select "Pay My Bill"
+  - Phone: Call 1-800-BILLING and pay by credit or debit card
+  - Mail: Send a check to our billing address on your statement
+  - In-person: At any of our front desk locations
+  We accept Visa, MasterCard, American Express, Discover, personal checks, and Health Savings Account (HSA) cards.
+
+Q: What if I cannot afford to pay my bill?
+A: We offer several assistance options:
+  - Interest-free payment plans (up to 12 months)
+  - Financial hardship applications for balance reduction
+  - Charity care for qualifying patients
+  - Referral to government assistance programs
+  Contact our Financial Counseling team to discuss your options confidentially.
+
+Q: How do I dispute a charge on my bill?
+A: To dispute a charge:
+  1. Gather your EOB from your insurer and our bill
+  2. Call our Billing Department: 1-800-BILLING
+  3. Explain the discrepancy and provide supporting documentation
+  4. A billing specialist will investigate and respond within 10 business days
+  5. If unresolved, you may escalate to our Patient Advocate office
+
+SECTION 5: MEDICARE AND MEDICAID PATIENTS
+==========================================
+
+Q: What Medicare plans do you accept?
+A: We accept Original Medicare (Parts A and B), most Medicare Advantage (Part C) plans, and Medicare Supplement (Medigap) plans. Always verify that your specific Medicare Advantage plan includes our providers in-network before scheduling.
+
+Q: Do you accept Medicaid?
+A: Yes, we accept state Medicaid programs. Coverage and services vary by state. Medicaid patients must present their Medicaid ID card at every visit. We can help patients apply for Medicaid if they believe they qualify.
+
+Q: Are there any services not covered by Medicare?
+A: Services typically not covered by Medicare include:
+  - Routine dental care
+  - Routine vision exams and glasses
+  - Hearing aids
+  - Cosmetic procedures
+  - Routine foot care (with exceptions for diabetic patients)
+  - Long-term custodial care

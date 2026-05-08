@@ -1,0 +1,128 @@
+DIABETES — PATIENT GUIDE
+=========================
+Source: Adapted from MedlinePlus Health Topics (medlineplus.gov)
+Topic Category: Chronic Disease Management
+Last Reviewed: 2025
+
+1. WHAT IS DIABETES?
+---------------------
+Diabetes is a chronic disease in which blood glucose (blood sugar) levels are too high. Glucose comes from the foods you eat. Insulin, a hormone made by the pancreas, helps glucose get into your cells to be used for energy.
+
+There are three main types of diabetes:
+- Type 1 Diabetes: The body does not make insulin. The immune system attacks and destroys the cells in the pancreas that make insulin. Type 1 diabetes is usually diagnosed in children and young adults.
+- Type 2 Diabetes: The body does not make or use insulin well. This is the most common type of diabetes, accounting for 90-95% of all cases. It develops over many years and is usually diagnosed in adults, though it increasingly affects children and teens.
+- Gestational Diabetes: A form of diabetes that develops during pregnancy. It usually goes away after the baby is born but increases the risk of Type 2 diabetes later in life.
+
+2. SYMPTOMS OF DIABETES
+------------------------
+Common symptoms include:
+- Frequent urination, especially at night
+- Excessive thirst
+- Unexplained weight loss
+- Extreme hunger
+- Blurry vision
+- Numbness or tingling in hands or feet
+- Fatigue and lack of energy
+- Sores that heal slowly
+- Very dry skin
+- More infections than usual
+
+Some people with Type 2 diabetes have no symptoms at all and are only diagnosed through routine blood tests.
+
+3. DIAGNOSIS
+-------------
+Diabetes is diagnosed through blood tests:
+- Fasting Blood Sugar Test: Blood is drawn after an 8-hour fast. Normal is below 100 mg/dL. Diabetes is diagnosed at 126 mg/dL or above.
+- A1C Test: Measures average blood sugar over the past 2-3 months. Normal is below 5.7%. Diabetes is diagnosed at 6.5% or above.
+- Oral Glucose Tolerance Test: Blood is tested 2 hours after drinking a glucose-containing drink.
+- Random Blood Sugar Test: Blood is tested at any time. Diabetes is suspected at 200 mg/dL or above with symptoms.
+
+4. TREATMENT AND MANAGEMENT
+-----------------------------
+Diabetes management involves:
+
+Lifestyle Changes (all types):
+  - Healthy eating: Focus on vegetables, whole grains, lean protein, and healthy fats
+  - Physical activity: Aim for 150 minutes of moderate exercise per week
+  - Weight management: Even modest weight loss improves blood sugar control
+  - Smoking cessation: Smoking worsens diabetes complications
+
+Medications:
+  - Type 1: Insulin therapy is required (injections or insulin pump)
+  - Type 2: Oral medications (metformin is usually first-line), followed by other agents if needed
+  - Some Type 2 patients also require insulin
+  - GLP-1 receptor agonists and SGLT-2 inhibitors are newer classes with proven heart and kidney benefits
+
+Blood Sugar Monitoring:
+  - Check blood sugar as directed by your provider (may be multiple times daily)
+  - Continuous Glucose Monitors (CGM) are available and recommended for many patients
+  - Target blood sugar levels are individualized by your provider
+
+5. TARGET BLOOD SUGAR LEVELS (Typical Ranges)
+----------------------------------------------
+- Before meals: 80-130 mg/dL
+- Two hours after meals: Less than 180 mg/dL
+- A1C goal: Less than 7% for most adults (individualized by provider)
+Note: Your provider will set personalized targets based on your age, health status, and risk factors.
+
+6. COMPLICATIONS OF UNCONTROLLED DIABETES
+-------------------------------------------
+If blood sugar remains too high for too long, serious complications can develop:
+- Heart disease and stroke (leading causes of death in people with diabetes)
+- Kidney disease (diabetic nephropathy) — leading cause of kidney failure
+- Eye damage (diabetic retinopathy) — leading cause of adult blindness
+- Nerve damage (diabetic neuropathy) — causes pain, numbness, and weakness
+- Foot problems — poor circulation and nerve damage can lead to amputations
+- Dental disease — increased risk of gum disease
+- Sexual health problems
+
+7. PREVENTING COMPLICATIONS
+-----------------------------
+Regular monitoring and preventive care are essential:
+- See your primary care provider every 3-6 months
+- Check your A1C at least twice per year (4 times if poorly controlled)
+- Annual eye exam with a dilated eye examination
+- Annual foot exam by your provider; daily self-examination at home
+- Annual urine test for kidney function (urine albumin)
+- Blood pressure monitoring at every visit (target: below 130/80)
+- Annual dental checkup
+- Vaccinations: Flu shot yearly; pneumonia, hepatitis B, and COVID-19 vaccines as recommended
+
+8. LOW BLOOD SUGAR (HYPOGLYCEMIA)
+-----------------------------------
+Hypoglycemia occurs when blood sugar drops below 70 mg/dL.
+
+Symptoms: Shakiness, sweating, dizziness, fast heartbeat, hunger, blurred vision, confusion, irritability
+
+Treatment — The "Rule of 15":
+  1. Eat or drink 15 grams of fast-acting carbohydrates (4 glucose tablets, 4 oz juice, or 4 oz regular soda)
+  2. Wait 15 minutes and recheck blood sugar
+  3. If still below 70 mg/dL, repeat the treatment
+  4. Once blood sugar is above 70 mg/dL, eat a small snack if your next meal is more than 1 hour away
+
+Severe hypoglycemia (unconscious patient):
+  - Do NOT give food or drink by mouth
+  - Administer glucagon if available and trained
+  - Call 911 immediately
+
+9. HIGH BLOOD SUGAR (HYPERGLYCEMIA)
+-------------------------------------
+Symptoms: Increased thirst and urination, headache, blurred vision, fatigue
+
+Causes: Too much food, too little medication, illness, stress, inactivity
+
+What to do:
+  - Check your blood sugar
+  - Follow your sick-day rules if ill
+  - Drink plenty of water
+  - Take your diabetes medications as prescribed
+  - Contact your provider if blood sugar remains high (over 300 mg/dL) or if you feel very sick
+
+10. LIVING WELL WITH DIABETES
+-------------------------------
+- Diabetes education classes can help you manage your condition effectively
+- Join a support group to connect with others managing diabetes
+- Keep all scheduled appointments even when you feel well
+- Share your diabetes diagnosis with close family members and coworkers
+- Wear a medical ID bracelet identifying you as a person with diabetes
+- Store insulin and medications properly as directed

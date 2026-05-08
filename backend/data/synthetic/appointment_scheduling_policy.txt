@@ -1,0 +1,139 @@
+APPOINTMENT SCHEDULING POLICY
+================================
+Document Type: Patient Services Policy
+Version: 3.0
+Last Updated: January 2025
+
+1. OVERVIEW
+-----------
+This document outlines the appointment scheduling policies for all departments within our healthcare system. These policies apply to all new and existing patients seeking in-person or telehealth consultations.
+
+2. AVAILABLE DEPARTMENTS AND SPECIALTIES
+------------------------------------------
+The following departments are available for appointment scheduling:
+
+Primary Care:
+- General Practice / Family Medicine
+- Internal Medicine
+- Pediatrics
+- Geriatrics
+
+Specialty Care:
+- Cardiology
+- Dermatology
+- Endocrinology
+- Gastroenterology
+- Neurology
+- Oncology
+- Orthopedics
+- Psychiatry and Mental Health
+- Pulmonology
+- Rheumatology
+- Urology
+
+Women's Health:
+- Obstetrics and Gynecology (OB/GYN)
+- Maternal-Fetal Medicine
+- Breast Health
+
+3. HOW TO BOOK AN APPOINTMENT
+--------------------------------
+Option 1 - Online (Preferred):
+  - Visit portal.healthsystem.org
+  - Log in with your patient credentials
+  - Click "Schedule New Appointment"
+  - Select department, provider, date, and time
+  - Confirm appointment and receive email confirmation
+
+Option 2 - Phone:
+  - Call our scheduling line: 1-800-HEALTH-1
+  - Available Monday to Friday, 7:00 AM to 7:00 PM
+  - Saturday, 8:00 AM to 2:00 PM
+  - Have your insurance card and patient ID ready
+
+Option 3 - In-Person:
+  - Visit any of our reception desks during business hours
+  - Walk-ins accepted for urgent care only
+
+4. APPOINTMENT AVAILABILITY BY DEPARTMENT
+-------------------------------------------
+Cardiology:
+  - New patient appointments: Available within 5-7 business days
+  - Follow-up appointments: Available within 2-3 business days
+  - Available slots: Monday to Friday, 9:00 AM to 4:00 PM
+  - Urgent cardiac concerns: Same-day slots reserved daily
+
+General Practice / Family Medicine:
+  - New patient appointments: Available within 1-2 business days
+  - Follow-up appointments: Same-day or next-day availability
+  - Available slots: Monday to Saturday, 8:00 AM to 6:00 PM
+
+Orthopedics:
+  - New patient appointments: Available within 3-5 business days
+  - Post-surgical follow-ups: Prioritized within 1-2 days
+  - Available slots: Monday to Friday, 8:00 AM to 5:00 PM
+
+Dermatology:
+  - New patient appointments: Available within 7-10 business days
+  - Follow-up appointments: Available within 5 business days
+  - Telehealth option available for photo consultations
+
+Psychiatry and Mental Health:
+  - Initial evaluations: Available within 7 business days
+  - Therapy sessions: Weekly or bi-weekly scheduling available
+  - Crisis support: Same-day slots reserved, call scheduling line
+
+5. REQUIRED INFORMATION FOR BOOKING
+--------------------------------------
+All patients must provide the following at the time of booking:
+- Full legal name and date of birth
+- Insurance provider name and member ID
+- Referring physician name (for specialist appointments, if applicable)
+- Reason for visit (brief description)
+- Preferred contact number
+- Emergency contact name and phone number
+
+6. NEW PATIENT REQUIREMENTS
+-----------------------------
+New patients must complete registration at least 24 hours before their first appointment:
+- Complete the new patient registration form online or at the front desk
+- Upload or bring a valid government-issued photo ID
+- Bring insurance card (original, not a photo)
+- Bring list of current medications including dosages
+- Arrive 20 minutes early on the day of appointment to complete paperwork
+
+7. RESCHEDULING POLICY
+------------------------
+- Appointments may be rescheduled up to 24 hours before the scheduled time at no charge
+- Rescheduling within 24 hours may result in limited availability
+- Patients can reschedule online via the portal or by calling the scheduling line
+
+8. CANCELLATION POLICY
+------------------------
+- Cancellations must be made at least 24 hours before the appointment
+- Late cancellations (less than 24 hours notice): $35 fee applies
+- No-show fee: $50 for primary care, $75 for specialty appointments
+- Three consecutive no-shows may result in discharge from the practice
+- Emergency cancellations are reviewed case-by-case
+
+9. WALK-IN AND URGENT CARE
+-----------------------------
+- Urgent Care clinic accepts walk-ins daily from 7:00 AM to 10:00 PM
+- Wait times vary; average wait is 30-60 minutes
+- Urgent care is for non-emergency medical issues only
+- For life-threatening emergencies, call 911 or go to the Emergency Department
+
+10. REFERRAL POLICY
+--------------------
+- Some specialist appointments require a referral from a primary care provider
+- Referrals are typically processed within 2 business days
+- Referral authorization number must be provided at the time of booking
+- Expired referrals (older than 90 days) will not be accepted
+
+11. APPOINTMENT REMINDERS
+---------------------------
+Patients receive automated reminders:
+- 72 hours before the appointment via email
+- 24 hours before the appointment via SMS (if opted in)
+- 2 hours before the appointment via automated phone call
+Patients can confirm, cancel, or reschedule directly from the reminder message.

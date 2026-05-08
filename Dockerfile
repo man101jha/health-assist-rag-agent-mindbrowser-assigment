@@ -11,6 +11,12 @@ RUN npm run build
 FROM python:3.12-slim
 WORKDIR /app
 
+# Memory optimization for 512MB RAM
+ENV MALLOC_ARENA_MAX=2
+ENV OMP_NUM_THREADS=1
+ENV TORCH_NUM_THREADS=1
+ENV PYTHONUNBUFFERED=1
+
 # Install dependencies
 COPY backend/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt

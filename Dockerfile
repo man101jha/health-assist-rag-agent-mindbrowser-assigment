@@ -5,7 +5,7 @@ COPY frontend/package*.json ./
 RUN npm install
 COPY frontend/ .
 # Angular 17+ uses 'browser' subfolder in dist
-RUN npm run build
+RUN npx -y ng build --configuration production
 
 # Stage 2: Setup Python & Serve
 FROM python:3.12-slim

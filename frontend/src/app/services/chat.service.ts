@@ -13,8 +13,8 @@ export interface Message {
     providedIn: 'root'
 })
 export class ChatService {
-    private apiUrl = `${environment.apiUrl}/ask/`;
-    private ingestUrl = `${environment.apiUrl}/ingest/`;
+    private apiUrl = (environment.apiUrl ? environment.apiUrl : window.location.origin) + '/ask';
+    private ingestUrl = (environment.apiUrl ? environment.apiUrl : window.location.origin) + '/ingest';
 
     // We use Signals for modern, reactive state!
     messages = signal<Message[]>([]);

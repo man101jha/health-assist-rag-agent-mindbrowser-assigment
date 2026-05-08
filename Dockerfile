@@ -24,7 +24,7 @@ COPY --from=build-stage /app/frontend/dist/health-assistant-ui/browser ./static
 
 # Ensure data directory exists for ingestion
 RUN mkdir -p data
-COPY data/ ./data/
+COPY backend/data/ ./data/
 
 # Environment variables (Defaults)
 ENV PORT=8001
